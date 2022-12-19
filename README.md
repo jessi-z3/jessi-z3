@@ -1,6 +1,8 @@
-# Jessi Zimmerman
+#
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F793E9&center=true&width=435&lines=Project+Manager;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Parisienne&size=45&pause=1108&color=FEAFD4&center=true&vCenter=true&width=600&lines=Jessi+Zimmerman)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=1108&color=FEAFD4&center=true&vCenter=true&width=435&lines=Project+Manager;Business+Analyst;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ![Jessi, a blue-eyed woman with brown hair and blonde highlights in a side braid, while wearing a headset and tan sweater dress with light makeup](IMG_0203.jpg)
 
@@ -18,56 +20,57 @@ I love to learn and am a lifelong learner, spending time weekly increasing or sh
 
 ### Languages
 
--HTML
--CSS
--Python
--Java
--JavaScript
--C#
--SQL
--R
--Swift
+- HTML
+- CSS
+- Python
+- Java
+- JavaScript
+- C#
+- SQL
+- R
+- Swift
 
 ### IDEs
 
--VS Code
--IntelliJ
--Atom
--FileMaker Pro
--Xcode
+- VS Code
+- IntelliJ
+- Atom
+- FileMaker Pro
+- Xcode
 
 ### Service and Project Management
 
--Jira
--Wrike
+- Jira
+- Wrike
 
 ### Whiteboards
 
--Jamboards
--Lucidchart
--Mural
--Miro
+- Jamboards
+- Lucidchart
+- Mural
+- Miro
 
 ### File-sharing
 
--Box
--Quip
+- Box
+- Quip
 
 ### Communication
 
--Slack
+- Slack
 
 ### Documentation
 
--Microsoft Office
+- Microsoft Office
 
 ### Meetings
 
--Adobe Connect
--Cisco WebEx
--Zoom
+- Adobe Connect
+- Cisco WebEx
+- Zoom
 
 ## Keep in Touch
 
 [jessi_leeann@yahoo.com](mailto:jessi_leeann@yahoo.com)
+
 [LinkedIn](https://www.linkedin.com/in/jessi-zimmerman-21039610a/)
