@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=1108&color=FEAFD4&center=true&vCenter=true&width=435&lines=Project+Manager;Business+Analyst;Full+Stack+Developer)](https://git.io/typing-svg)
 
-![Jessi, a blue-eyed woman with brown hair and blonde highlights in a side braid, while wearing a headset and tan sweater dress with light makeup](IMG_0203.jpg)
+![Jessi, a blue-eyed woman with brown hair and blonde highlights in a side braid, while wearing a headset and tan sweater dress with light makeup](IMG_0203.jpg?width=435)
 
 ## Overview
 
