@@ -1,4 +1,4 @@
-# Welcome
+#
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=40&pause=19055&color=FEAFD4&center=true&vCenter=true&width=1000&lines=Jessi+Zimmerman)](https://git.io/typing-svg)
 
