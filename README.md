@@ -10,7 +10,7 @@
 
 ## Overview
 
-I have 17 years of problem solving and coding experience. I started workinng in I.T. at only 15 years old. My father and grandfather did I.T. before me, and I grew up with a keyboard in my hands. By the time I was 15, I knew enough to update computers, remove viruses, change out faulty power supplies, make websites, plus sell computers and accessories.
+I have 18 years of problem solving and coding experience. I started workinng in I.T. at only 15 years old. My father and grandfather did I.T. before me, and I grew up with a keyboard in my hands. By the time I was 15, I knew enough to update computers, remove viruses, change out faulty power supplies, make websites, plus sell computers and accessories.
 
 I have been the sole I.T. Specialist for the second largest distributors in the balloon and floral accessory industry, supporting teleconferencing, telemarketing, shipping machines, and C-Suite workstations. We brought this company from a COBOL based system, implented new accounting and inventory software, re-ran the entire network, installed security cameras and biometric punch clock.
 
