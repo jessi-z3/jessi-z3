@@ -18,9 +18,7 @@ Now I have over ten years in at one of the largest tech companies in the world. 
 
 I love to learn and am a lifelong learner, spending time weekly increasing or sharpening my skill set. I enjoy baking from scratch for my friends and family, and in my free time, I plan and organize events from weddings to music festivals. I am passionate about volunteering my time and skills to causes that are important to me. I've been a youth leader and coach, I brought a community garden to my town, and I have worked on multiple web projects dedicated to mental and physical wellness.
 
-## Languages and Tools
-
-### Languages
+## Languages
 
 - HTML
 - CSS
