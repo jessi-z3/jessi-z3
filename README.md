@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=40&pause=19055&color=FEAFD4&center=true&vCenter=true&width=1000&lines=Jessi+Zimmerman)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=28&pause=1108&color=FEAFD4&center=true&vCenter=true&width=1000&lines=Project+Manager;Business+Analyst;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=28&pause=1108&color=FEAFD4&center=true&vCenter=true&width=1000&lines=App+&+Web+Developer)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="IMG_0203.jpg" style="height:30%; width:30%" >
