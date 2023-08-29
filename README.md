@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=28&pause=1108&color=FEAFD4&center=true&vCenter=true&width=1000&lines=App+and+Web+Developer)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="IMG_0867.jpg" style="height:30%; width:30%" >
+<img src="IMG_0867.jpeg" style="height:30%; width:30%" >
   </p>
 
 ## Overview
