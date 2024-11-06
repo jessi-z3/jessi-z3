@@ -21,15 +21,15 @@
   ### [Personal](https://github.com/jessi-z3)
   |Project Name | Description |
   |-------------|-------------|
-  | Reese-ources | An iOS (Swift) and Android (React Native) application made for Reese with resources against bullying, including sharable documents, saved writing prompts, a quiz, and contact information with links for help |
-  | Best Budget | An iOS (SwiftUI) app about your current finances, such as incomes and bills (CoreData), and calculates your available funds based on how many bills you have to pay in the current pay period |
-  | WordScramble | An iOS (Swift) game (UIKit) that gives a word from a list and allows user input of words that can be made from the given word, if they're real words that haven't been used and only use the characters once |
-  | WebBrowser | iOS (Swift) browser (WebKit) with a table of links to choose from that opens the web page with a progress view |
-  | FlagGame | iOS (Swift) game (Storyboards) that asks the user to identify the flag for ten countries and displays the score |
-  | ScrumDinger | iOS (SwiftUI) app that records (AVFoundation) meetings and transcribes (Speech) them and their attendees |
-  | Little Lemon | iOS (SwiftUI) restaurant app that has a searchable menu (CoreData) and a user profile (UserDefaults) |
-  | WeatherApp | iOS (Swift) app that allows you to enter the city and receive the weather information (API) for that location |
-  | YellowBird.dev | Website (React Native) with an image carousel and contact form |
+  | [Reese-ources](https://github.com/jessi-z3/Reese-ources) | An iOS (Swift) and Android (React Native) application made for Reese with resources against bullying, including sharable documents, saved writing prompts, a quiz, and contact information with links for help |
+  | [Best Budget](https://github.com/jessi-z3/Best-Budget) | An iOS (SwiftUI) app about your current finances, such as incomes and bills (CoreData), and calculates your available funds based on how many bills you have to pay in the current pay period |
+  | [WordScramble](https://github.com/jessi-z3/WordScramble) | An iOS (Swift) game (UIKit) that gives a word from a list and allows user input of words that can be made from the given word, if they're real words that haven't been used and only use the characters once |
+  | [WebBrowser](https://github.com/jessi-z3/WebBrowser) | iOS (Swift) browser (WebKit) with a table of links to choose from that opens the web page with a progress view |
+  | [FlagGame](https://github.com/jessi-z3/FlagGame) | iOS (Swift) game (Storyboards) that asks the user to identify the flag for ten countries and displays the score |
+  | [ScrumDinger](https://github.com/jessi-z3/Scrumdinger) | iOS (SwiftUI) app that records (AVFoundation) meetings and transcribes (Speech) them and their attendees |
+  | [Little Lemon](https://github.com/jessi-z3/littlelemon) | iOS (SwiftUI) restaurant app that has a searchable menu (CoreData) and a user profile (UserDefaults) |
+  | [WeatherApp](https://github.com/jessi-z3/WeatherApp) | iOS (Swift) app that allows you to enter the city and receive the weather information (API) for that location |
+  | [YellowBird.dev](https://github.com/jessi-z3/YellowBird.dev) | Website (React Native) with an image carousel and contact form |
 </details>
 
 <!-- MARK: Education -->
