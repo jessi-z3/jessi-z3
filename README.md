@@ -97,33 +97,243 @@
 
 <!-- MARK: Positions Held -->
 <details>
-  <summary>Positions Held</summary>
-
-  ### Current Positions 
-  - Senior Advisor
-  - Mentor
-  - Class Lead
-  - Team Manager Apprentice Graduate
-  - Media Developer
-  - Quality Analyst
-  - Women@Apple AHA DNA Webmaster
-  - Cool Calendar Converter App Developer
-
-  ### Completed Rotations and Career Experiences
-  - Project Manager / Business Analyst
-  - Tools and Automation Quality Engineer
+<summary>Positions Held</summary>
+<!-- MARK: Positions Held -->
+<details>
+  <summary>Current Positions</summary>
+  <h3>Current Positions</h3>
+  <details>
+  <summary><b>Senior Advisor</b> (Promoted in July 2016)</summary>
+    <ul>
+    <li>
+      Provide advanced troubleshooting and resolve escalated, complex cases.
+    </li>
+    <li>
+      Act as a liaison with engineering teams to communicate issues and collaborate on solutions.
+    </li>
+    <li>
+      Deliver thorough, personalized support to enhance customer satisfaction and trust.
+    </li>
+    </ul>
+  </details>
+  <details>
+    <summary><b>Mentor</b> (Promoted October 2015)</summary>
+    <ul>
+      <li>
+        Guide team members through complex cases, sharing troubleshooting techniques and best practices.
+      </li>
+      <li>
+        Provide constructive feedback on technical and customer interactions to help advisors grow.
+      </li>
+      <li>
+        Offer support in skill development, from technical knowledge to communication strategies.
+      </li>
+      <li>
+        Foster a collaborative learning environment, encouraging team members to share insights and ask questions.
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary><b>Class Lead</b> (Selected July 2018)</summary>
+      <ul>
+        <li>
+          Facilitate mentoring classes by presenting material clearly and engaging participants in discussions.
+        </li>
+        <li>
+          Act as a liaison to mentoring coordinators, ensuring alignment on goals and feedback.
+        </li>
+        <li>
+          Encourage active participation, fostering an inclusive environment where questions and collaboration are welcomed.
+        </li>
+        <li>
+          Track and assess learning progress, providing feedback and additional support as needed.
+        </li>
+      </ul>
+  </details>
+  <details>
+    <summary>
+      <b>Media Developer</b> (Selected July 2023)
+    </summary>
+    <ul>
+      <li>
+        Create lesson plans with clearly defined learning objectives and engaging, objective-driven activities.
+      </li>
+      <li>
+        Apply the ADDIE framework and Adult Learning Theory to design effective, learner-centered content.
+      </li>
+      <li>
+        Adhere to the Apple Style Guide, ensuring all materials are consistent with Apple’s standards.
+      </li>
+      <li>
+        Actively participate in content review discussions, providing feedback and collaborating on improvements.
+        </li>
+        <li>
+        Apply accessibility best practices in multimedia projects to create engaging, inclusive experiences for diverse audiences.
+        </li>
+      </ul>
+  </details>
+  <details>
+    <summary>
+      <b>Quality Analyst</b> (Promoted July 2024)
+    </summary>
+    <ul>
+      <li>
+        Provide detailed, constructive feedback to peers in a collaborative setting to enhance content quality.
+      </li>
+      <li>
+        Review and validate developed content to meet Apple’s standards before distribution.
+      </li>
+      <li>
+        Approve finalized content for release, ensuring accuracy and alignment with learning objectives.
+      </li>
+      <li>
+        Coordinate with the development team to address any issues or enhancements needed prior to publication.
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>
+      <b>Women@Apple AHA DNA Webmaster</b> (Since September 2023)
+    </summary>
+    <ul>
+      <li>
+        Build and design reusable components and front-end libraries to enhance functionality and scalability.
+      </li>
+      <li>
+        Lead the redesign of key pages, including the homepage and leadership page, using HTML and CSS for a polished, user-friendly experience.
+      </li>
+      <li>
+        Manage update requests through Wrike, applying an iterative design approach to ensure continuous improvement and responsiveness to user needs.
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>
+      <b>Cool Calendar Converter App Developer</b> (Since June 2024)
+    </summary>
+    <ul>
+      <li>
+        Develop an innovative SwiftUI macOS app to bridge online and work calendars, allowing users to select and sync events seamlessly, using an internal SPI for secure authentication.
+      </li>
+      <li>
+        Design views for streamlined event selection and availability updates, enhancing workflow efficiency for assignment tracking.
+      </li>
+      <li>
+        Lead project setup, including selecting a project manager and developer to collaborate with, establishing GitHub repositories, and organizing component and workgroup setup in Radar.
+      </li>
+      <li>
+        Secure team developer accounts under company credentials, managing access as the admin to support collaboration and future app development.
+      </li>
+    </ul>
+  </details>
+</details>
+<br>
+<details>
+  <summary>Rotations and Career Experiences</summary>
+  <h3>Rotations and Career Experiences</h3>
+  <details>
+    <summary>
+      <b>Team Manager Apprentice Graduate</b> (January 2014 - August 2019)
+    </summary>
+    <ul>
+      <li>
+  	    Step into the Technical Support Team Manager role temporarily, providing guidance and support to team members.
+  	  </li>
+      <li>
+        Conduct performance coaching sessions, focusing on skill development and improving customer interactions.
+  	  </li>
+      <li>
+        Assist with resource allocation and prioritize team workload to ensure efficient support coverage.
+  	  </li>
+      <li>
+        Address technical and performance-related needs, referring HR and behavioral matters to designated managers.
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>
+      <b>Project Manager / Business Analyst</b> (November 2022 - May 2023)
+    </summary>
+    <ul>
+      <li>
+        Lead sprint planning, user story creation, and backlog management to drive effective development cycles within the SDLC.
+      </li>
+      <li>
+        Gather requirements and manage stakeholder expectations, ensuring alignment on project goals and deliverables.
+      </li>
+      <li>
+        Plan and conduct all QA and UAT testing phases, verifying requirements and quality before release.
+      </li>
+      <li>
+        Use Jira, Radar, and other project management tools for task tracking, test management, and performance reporting.
+      </li>
+      <li>
+        Balance multiple projects and integrations, navigating priorities within the triple constraint of time, scope, and cost while motivating the team to success.
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>
+      <b>Tools and Automation Quality Engineer</b> (January 2024 - June 2024)
+    </summary>
+    <ul>
+      <li>
+        Contribute to the Build & Runtime Tools and Performance Tools teams, working on Xcode, Simulator, Devices, and Instruments applications to improve tool functionality and stability.
+      </li>
+      <li>
+        Qualify Xcode’s Simulators and Devices components as a backup Directly Responsible Individual (DRI), ensuring reliable testing and validation.
+      </li>
+      <li>
+        Write and maintain comprehensive test plans, keeping them up-to-date with evolving requirements and new features.
+      </li>
+      <li>
+        Develop automated test suites using Swift and XCTest, creating reliable and efficient test cases for critical functionality.
+      </li>
+      <li>
+        Work closely with development teams to identify, document, and resolve bugs, enhancing product quality through cross-functional collaboration.
+      </li>
+      <li>
+        Proactively identify and implement opportunities for test automation, increasing coverage and improving efficiency in testing high-priority features.
+      </li>
+      <li>
+        Integrate automated tests into Jenkins CI/CD pipeline, supporting continuous delivery by reducing manual testing needs and accelerating release cycles.
+      </li>
+      <li>
+        Triage and resolve daily test failures on the latest Xcode Simulator builds, maintaining a smooth testing process and quick issue resolution.
+      </li>
+      <li>
+        Create Swift apps to enable feature testing, including cloud syncing functionalities (SwiftData), supporting robust feature verification and consistency across devices.
+      </li>
+      <li>
+        Implement Tap to Radar for the Instruments app for Apple Internal Developers.
+      </li>
+    </ul>
+  </details>
+</details>
+  <br>
+<details>
+    <summary>Past Positions</summary>
 
   ### Past Positions
-  - App & Web Developer
-  - Community Garden Manager
-  - Homemakers President
-  - Cubmaster
-  - Party Planner
-  - Cheer Coach
-  - Army Soldier (35M - Military Intelligence, Human Intelligence Collector)
-  - IT Specialist
-  - Procurement Specialist
+  - **App & Web Developer** Self Employed (2023 - 2024)
 
+  - **Manager** Piggott Community Garden (2023 - 2024)
+
+  - **President** Piggott Homemakers (2023 - 2024)
+
+  - **Cubmaster** Piggott Cub Scouts (2016 - 2023)
+
+  - **Party Planner** Self Employed (2016 - 2023)
+  
+  - **Cheer Coach** Texas Youth Football Association (2012 - 2013)
+  
+  - **Military Intelligence, Human Intelligence Collector** U.S. Army (2011-2012)
+
+  - **IT Specialist** Aerial Bouquets (2011 - 2012)
+
+  - **Procurement Specialist** Aerial Bouquets (2010 - 2011)
+
+</details>
 </details>
 
 <!-- MARK: Contact Me -->
