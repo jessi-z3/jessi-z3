@@ -14,6 +14,15 @@
 
 </details>
 
+<!-- MARK: Articles -->
+<details open>
+  <summary>Articles</summary>
+  <a href = https://medium.com/p/4041a15ce99b>The Power of Swift Dictionaries</a>
+  <br>
+  <a href = https://medium.com/@jessi_leeann/is-ai-stealing-from-you-14239d8a1228>Is AI Stealing from You?</a>
+
+</details>
+
 <!-- MARK: Projects -->
 <details>
   <summary>Projects</summary>
