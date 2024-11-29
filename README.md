@@ -1,33 +1,74 @@
 <!-- MARK: Summary -->
-<details open>
-  <summary>Overview</summary>
-
-  ### About Me
-
-  With 19 years of experience in IT and software development, I’ve been tackling complex challenges since I was 15. Starting with a foundation in hardware and systems, I’ve advanced to roles where I manage projects, drive quality, and mentor teams, with 12 years at Apple honing my skills in technical support, training, and project management.
-  
+  ## About Me
+  <details open>
+    <summary>Experienced IT Leader, Developer, Lifelong Learner</summary>
+<br>
+  With 19 years of experience in IT and software development, I’ve been tackling complex challenges since I was 15. Starting with a foundation in hardware and systems, I’ve advanced to roles where I manage projects, drive quality, and mentor teams, with <b>12 years at Apple</b> honing my skills in technical support, training, and project management.
+<br><br>
   In previous roles, I modernized legacy systems, supported large-scale IT operations, and led infrastructure upgrades. As an I.T. Specialist, I helped transform a major distributor’s operations, implementing new accounting, inventory, and network systems. I’ve also supported development life cycles at Apple, managed backlogs, and delivered training programs to improve both team capabilities and customer experience.
-  
+<br><br>
   Beyond technical skills, I’m a lifelong learner, always sharpening my knowledge of Swift, iOS development, and project management. I enjoy sharing this knowledge, mentoring others, and contributing to projects that align with my passion for mental and physical wellness.
-  
+<br><br>
   In my free time, I love baking from scratch, organizing events, and volunteering on projects that foster community engagement and growth.
+</details>
 
+<!-- MARK: Interview Question Videos -->
+<h2>Interview Questions</h2>
+
+<details>
+  <summary><b>Tell me about yourself.</b></summary>
+
+https://github.com/user-attachments/assets/fcbe77e7-82bd-4906-b8b6-686e2f87fabc
+  
+</details>
+
+<details>
+  <summary><b>Why do you want to work on this team?</b></summary>
+
+https://github.com/user-attachments/assets/c6de3e0c-6604-4b77-a262-3b9fb04908b4
+
+</details>
+
+<details>
+  <summary><b>Tell me about a time you overcame adversity in the workplace.</summary></b>
+
+https://github.com/user-attachments/assets/1b174c3d-592c-4615-84e6-376aa87cad83
+  
+</details>
+
+<details>
+  <summary><b>What do you do when you report a bug and someone doesn’t understand that it’s a bug?</b></summary>
+  
+https://github.com/user-attachments/assets/bd51f27a-5b8e-4676-8a27-c3a01ea01fb8
+
+</details>
+
+<details>
+  <summary><b>What kind of test cases would you make for a new feature?</b></summary>
+
+https://github.com/user-attachments/assets/f608d4cb-5cc8-4230-80c5-b197edc8ec51
+
+</details>
+
+<details>
+  <summary><b>What project are you most proud of?</b></summary>
+
+https://github.com/user-attachments/assets/d9c77cfc-110c-4476-b725-26a4f81e28d5
+  
 </details>
 
 <!-- MARK: Articles -->
-<details open>
-  <summary>Articles</summary>
-  <a href = https://medium.com/p/4041a15ce99b>The Power of Swift Dictionaries</a>
-  <br>
-  <a href = https://medium.com/@jessi_leeann/is-ai-stealing-from-you-14239d8a1228>Is AI Stealing from You?</a>
-
-</details>
+  <h2>Articles</h2>
+  <ul>
+    <li><a href="https://medium.com/@jessi_leeann/why-i-specialized-in-swift-ccd7aef16684">Why I Specialized in Swift</a></li>
+    <li><a href = https://medium.com/p/4041a15ce99b>The Power of Swift Dictionaries</a></li>
+    <li><a href = https://medium.com/@jessi_leeann/is-ai-stealing-from-you-14239d8a1228>Is AI Stealing from You?</a></li>
+  </ul>
 
 <!-- MARK: Projects -->
+<h2>Projects</h2>
 <details>
-  <summary>Projects</summary>
-
-  ### [Personal](https://github.com/jessi-z3)
+  <summary>Personal</summary>
   |Project Name | Description |
   |-------------|-------------|
   | [Reese-ources](https://github.com/jessi-z3/Reese-ources) | An iOS (Swift) and Android (React Native) application made for Reese with resources against bullying, including sharable documents, saved writing prompts, a quiz, and contact information with links for help |
@@ -42,10 +83,10 @@
 </details>
 
 <!-- MARK: Education -->
+<h2>Certificates</h2>
 <details>
-  <summary>Certificates</summary>
-  
-  ### 1. iOS and Mobile Development
+  <summary><b>1. iOS and Mobile Development</b></summary>
+
   - [**Meta iOS Developer Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/63V3UHHSUTS5) (Issued May 2023)
   - [**iOS Capstone**](https://www.coursera.org/account/accomplishments/certificate/VRTNP46Z4RVE) (Issued May 2023)
   - [**Advanced Programming in Swift**](https://www.coursera.org/account/accomplishments/certificate/YGQTEAELFELY) (Issued Feb 2023)
@@ -53,8 +94,10 @@
   - [**Create the User Interface with SwiftUI**](https://www.coursera.org/account/accomplishments/certificate/MHWD7BMJ5RZW) (Issued Jan 2023)
   - [**React Native**](https://www.coursera.org/account/accomplishments/certificate/9CN6P76L8SJ6) (Issued Apr 2023)
   - [**Mobile Development and JavaScript**](https://www.coursera.org/account/accomplishments/certificate/5Z8TBFD4J4NP) (Issued Mar 2023)
+</details>
+<details>
+  <summary><b>2. Programming and Software Development</b></summary>
 
-  ### 2. Programming and Software Development
   - [**Coding Interview Preparation**](https://www.coursera.org/account/accomplishments/certificate/Y5DAJXUV5XY2) (Issued May 2023)
   - [**React Basics**](https://www.coursera.org/account/accomplishments/certificate/7D2B2ZLQX387) (Issued Mar 2023)
   - [**Swift 5 Essential Training**](https://www.linkedin.com/learning/certificates/28f2c8a189e7284adfeaf7acd84441e01c5465e01b3a633dc3342971ecef2c39) (Issued Oct 2022)
@@ -68,26 +111,36 @@
   - [**Programming Foundations: Web Security**](https://www.linkedin.com/learning/certificates/c6259f6da9c4dc5abca0dbc66a3261ddfc95b6a18d89361b56b4147c3c02349a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Sep 2022)
   - [**Programming Foundations: Databases**](https://www.linkedin.com/learning/certificates/a7c75a090f32c99bd21b82fb09dd49c95c98915cd5a4052ab5b97819906ebaee?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Programming Foundations: Fundamentals**](https://www.linkedin.com/learning/certificates/8f83e8076f0c188ac5eddbcb346c60fb4101c4f73634e906da101a3e3a244085?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
+</details>
 
-  ### 3. Project Management and Agile Practices
+<details>
+  <summary><b>3. Project Management and Agile Practices</b></summary>
+  
   - [**Foundations of Project Management**](https://www.coursera.org/account/accomplishments/certificate/5MQ9CZXJV7X2) (Issued Jan 2023)
   - [**Agile Foundations**](https://www.linkedin.com/learning/certificates/978e676c76b43a93c544e5f99c2d65a06d1e8eafc78ba03b59caeae5e10f8f0b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**DevOps Foundations**](https://www.linkedin.com/learning/certificates/20551ff7b34cef08a8cc196fb5219bb650e575c84b8528af44f64a9307269fd1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Sep 2022)
 
-  ### 4. UX/UI and Web Development
+</details>
+<details>
+  <summary><b>4. UX/UI and Web Development</b></summary>
+
   - [**Principles of UX/UI Design**](https://www.coursera.org/account/accomplishments/certificate/WXKSS6YGN79D) (Issued Jan 2023)
   - [**CSS Essential Training**](https://www.linkedin.com/learning/certificates/caa458afeb52aecb0aa719d80112669e5a45e2e20cde3e7470b4c6dddcc5fc5b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**HTML Essential Training**](https://www.linkedin.com/learning/certificates/ab7f40fce015044ee228e34505f9528c561ea2de90e3a536a22b77cfbb663148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**JavaScript Essential Training**](https://www.linkedin.com/learning/certificates/8f21894eb9890954180a472b4436068b1006a227256ea875167d3b40b10cc395?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Succeeding in Web Development: Full Stack and Front End**](https://www.linkedin.com/learning/certificates/12701cf9406c0e1cec1b92e26206f8011ed5fea8c7f5dfffc285c96f51ce51c6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
+</details>
+<details>
+  <summary><b>5. Leadership, Creativity, and Communication</b></summary>
 
-  ### 5. Leadership, Creativity, and Communication
   - [**Communicating as a Leader Nano Tips with Jessica Chen**](https://www.linkedin.com/learning/certificates/3beb228220181538a5742ac4e37da7453a69017a00652469670dabea4dfc7ec4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Sep 2022)
   - [**Brainstorming Tools**](https://www.linkedin.com/learning/certificates/090a5958f5bac798c276f0bd0475e688973c06b015088dd0ebb5b31e39055e2a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Sep 2022)
   - [**Four Simple Strategies to Boost Creativity and Productivity**](https://www.linkedin.com/learning/certificates/7fbc25f9b9b82603df87f4765551b5f9386b259bb1e7fac603fac7570be5fbc9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Sep 2022)
   - [**How to Lead and Inspire Change**](https://www.linkedin.com/learning/certificates/f8872c5e28116045b530cadb1408943d08bfc0f1b0c52a8fb3ed76534c0e1aa4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
+</details>
+<details>
+  <summary><b>6. Process Improvement and Operational Excellence</b></summary>
 
-  ### 6. Process Improvement and Operational Excellence
   - [**Become a Six Sigma Yellow Belt**](https://www.linkedin.com/learning/certificates/e6ab50c4ddf1889c43dc4fc24ad05d702b11f97b023bcaf7e507de82432bbd8e?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Lean Six Sigma: Analyze, Improve, and Control Tools**](https://www.linkedin.com/learning/certificates/49e0f40e06bb9e51d48e2d7e6e3972de4d00725bd01e318065177d0b65d50332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Lean Six Sigma: Define and Measure Tools**](https://www.linkedin.com/learning/certificates/672eeb437fc3aa23bcc526ca6381ca306aebe8af36d7ac9b449cd75a10c9e572?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
@@ -96,18 +149,18 @@
   - [**Operational Excellence Foundations**](https://www.linkedin.com/learning/certificates/f4c6174f7e6bb195ab5e7e69696f841686ab4d705c08f1cfd7e88dc8948aead6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Process Improvement Foundations**](https://www.linkedin.com/learning/certificates/81b0b65cba8beb7c383d2c93bc8d6f3e698d4ddb186b29179ca8586fe60b0830?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Root Cause Analysis: Getting to the Root of Business Problems**](https://www.linkedin.com/learning/certificates/628c1853894bcb5c9f0ed02cf16bd1abb7d627bf186bc9c4c987cf354782faec?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
+</details>
+<details>
+  <summary><b>7. Statistics and Data Analysis</b></summary>
 
-  ### 7. Statistics and Data Analysis
   - [**Statistics Foundations 1: The Basics**](https://www.linkedin.com/learning/certificates/d022ec96f976303cce86ec07787abb3ae06ffe88a178e6b2cd3a040ab41daeb3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
   - [**Learning Minitab**](https://www.linkedin.com/learning/certificates/737a56c83ed0fb1624ffa1bea3ccf94a7ca9b7c7e94920a730e414601ad36329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BnMN0VYVVR1i69oM1EBry7A%3D%3D) (Issued Aug 2022)
-
+</details>
 </details>
 
 
 <!-- MARK: Positions Held -->
-<details>
-<summary>Positions Held</summary>
-<!-- MARK: Positions Held -->
+<h2>Positions Held</h2>
 <details>
   <summary>Current Positions</summary>
   <h3>Current Positions</h3>
@@ -343,13 +396,10 @@
   - **Procurement Specialist** Aerial Bouquets (2010 - 2011)
 
 </details>
-</details>
 
 <!-- MARK: Contact Me -->
-<details>
-  <summary>Keep in Touch</summary>
+<h2>Keep in Touch</h2>
   
 - [Email](mailto:jessi_leeann@iCloud.com)
 - [LinkedIn](https://www.linkedin.com/in/jessi-zimmerman-21039610a/)
-</details>
 
