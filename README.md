@@ -69,6 +69,7 @@ https://github.com/user-attachments/assets/d9c77cfc-110c-4476-b725-26a4f81e28d5
 <h2>Projects</h2>
 <details>
   <summary>Personal</summary>
+  
   |Project Name | Description |
   |-------------|-------------|
   | [Reese-ources](https://github.com/jessi-z3/Reese-ources) | An iOS (Swift) and Android (React Native) application made for Reese with resources against bullying, including sharable documents, saved writing prompts, a quiz, and contact information with links for help |
